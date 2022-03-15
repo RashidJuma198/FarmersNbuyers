@@ -1,0 +1,37 @@
+.logintitle{
+    color:rgb(1, 11, 12);
+    background-color: rgb(95, 112, 102);
+    border-color: khaki;
+    text-align: center;
+    
+   
+}
+body{
+    background-color:whitesmoke;
+}
+form{
+    color:rgb(1, 11, 12);
+    text-align: center;
+    background-color:whitesmoke;
+
+}
+input,.pass,.user{
+    border-left:none ;
+    border-top:none ;
+    border-right:none ;
+  
+    width:250px ;
+    border-style: solid black;
+    height: auto;
+}
+
+
+   
+
+fieldset{
+    height: auto;
+    width: 2px;
+}
+b{
+    color:khaki;
+}

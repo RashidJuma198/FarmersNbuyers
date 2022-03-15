@@ -1,0 +1,40 @@
+.pass{
+    color:rgb(12, 12, 11);
+    font-size:150%;
+    height: fit-content;
+    mask-type:alpha;
+    width: 350px;
+}
+.mail{
+    color:rgb(40, 161, 151);
+    font-size:150%;
+    height: fit-content;
+    width: 350px;
+}
+b{
+    color:rgb(12, 12, 8);
+    font-size:150%;
+}
+.btn1{
+    height: 50px;
+    width: 150px;
+}
+.depart{
+    height: 30;
+    padding: 10px;
+
+    width: 350px;
+    border-radius: 5px;
+ 
+}
+.loging{
+    width: 500px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 500px;
+    
+    border-radius: 10px;
+}
+h2{
+    padding: 20px;
+}
